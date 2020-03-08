@@ -1,0 +1,27 @@
+{
+  "name": "learn-react-next",
+  "version": "1.0.0",
+  "description": "This is a educational repo for learning react and nextjs.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pewdsyx/learn-react-next.git"
+  },
+  "keywords": [],
+  "author": "Yves Staudenmaier <yves.staudenmaier@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pewdsyx/learn-react-next/issues"
+  },
+  "homepage": "https://github.com/pewdsyx/learn-react-next#readme",
+  "dependencies": {
+    "next": "^9.2.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
